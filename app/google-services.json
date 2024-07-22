@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550826209069",
+    "project_id": "touristy-project",
+    "storage_bucket": "touristy-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550826209069:android:927573dfe4fdf771f2eda4",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.touristykotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUBbIJ4TpE-BsUxt8r7TQ6n97f7s4jX64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
