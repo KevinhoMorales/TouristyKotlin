@@ -27,6 +27,10 @@ class PlacesActivity : MainActivity(), OnPlaceDeleteClickListener, OnPlaceClickL
         super.onCreate(savedInstanceState)
         binding = ActivityPlacesBinding.inflate(layoutInflater)
         setContentView(binding.root)
+    }
+
+    override fun onResume() {
+        super.onResume()
         setUpView()
     }
 

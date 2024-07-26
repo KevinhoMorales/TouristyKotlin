@@ -3,11 +3,13 @@
     <string name="fab">fab</string>
     <string name="sample_place_name">Time Square</string>
     <string name="update_text">ACTUALIZAR</string>
-    <string name="delete_text">ELIMINAR</string>
+    <string name="delete_text">NAVEGAR</string>
+    <string name="upload_text">SUBIR</string>
     <string name="loading_text">CARGANDO INFORMACIÓN</string>
     <string name="delete_place_alert_title">BORRAR LUGAR</string>
     <string name="delete_place_alert_message">Al confirmar estarás borrando tu lugar de la lista</string>
     <string name="confirm">Confirmar</string>
     <string name="ok">Agregar</string>
     <string name="cancel">Cancelar</string>
+    <string name="alert_title">INGRESAR NOMBRE DEL LUGAR</string>
 </resources>

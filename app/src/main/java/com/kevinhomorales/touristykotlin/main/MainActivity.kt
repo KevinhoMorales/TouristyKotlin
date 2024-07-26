@@ -9,7 +9,6 @@ open class MainActivity : AppCompatActivity() {
 
     private var alertDialog: AlertDialog? = null
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
